@@ -19,5 +19,8 @@
 
 ![Badge](https://img.shields.io/badge/label-message-color)
 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true)
+
 
 
