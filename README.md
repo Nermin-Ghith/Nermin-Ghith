@@ -12,15 +12,17 @@
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love watching horror movies (not the bloody ones), such as the ones that are bringing your childhood fears, such as The Tooth Fairy 
 
-## My GitHub Contributions
+## 🛠 Data Science tools
+- **Languages :** cypher, neo4j, Python, R
+- **Web apps and services :** Dash, plotly, Docker, Kubernetes
+- **Tools:** Git, Github
+- 
+## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nermin-Ghith&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nermin-Ghith&layout=compact)
 
 ![Badge](https://img.shields.io/badge/label-message-color)
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true)
 
 
 
