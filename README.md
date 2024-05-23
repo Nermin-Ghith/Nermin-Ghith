@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm [Nermin]! 
+# Hi there 👋, I'm Nermin! 
 # This is the new code profile for all my essential research and technical projects with the WHO!
 
 ## About Me
