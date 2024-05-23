@@ -18,6 +18,7 @@
 - **Languages :** cypher, neo4j, Python, R
 - **Web apps and services :** Dash, plotly, Docker, Kubernetes
 - **Tools:** Git, Github
+- **Pharmacoepi and research software:** STATA, SPSS, Win BUGS, PSPP, and G*Powe, SOFA Statistics, OpenSAGE (Statistical Analysis for Genetic Epidemiology), Epi Info, RevMan, amnog others
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
