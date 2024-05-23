@@ -14,3 +14,6 @@
 
 ## My GitHub Contributions
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nermin-Ghith&show_icons=true)
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Nermin-Ghith/Nermin-Ghith/output/github-contribution-grid-snake.svg)
+
