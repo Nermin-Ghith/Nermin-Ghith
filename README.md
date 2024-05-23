@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm [Nermin]!
 
 ## About Me
 - 🔭 I’m currently working on [Genomic data, drug use registry data, and global burden of disease analytics]
