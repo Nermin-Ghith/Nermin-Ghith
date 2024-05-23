@@ -61,7 +61,7 @@
 
 ![Badge](https://img.shields.io/badge/label-message-color)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nermin-Ghith.Nermin-Ghith&title=Visitors&color=0E75B6&style=flat-square)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Nermin-Ghith.Nermin-Ghith)
 
 
 
