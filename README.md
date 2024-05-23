@@ -13,7 +13,10 @@
 - ⚡ Fun fact: I love watching horror movies (not the bloody ones), such as the ones that are bringing your childhood fears, such as The Tooth Fairy 
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nermin-ghith/)
+
+Feel free to connect with me for collaboration or chat about potential opportunities.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-ghith)
+
 
 ## 🛠 Data Science tools
 - **Languages and data science tools:** 
