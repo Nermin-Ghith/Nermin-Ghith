@@ -15,7 +15,12 @@
 - **LinkedIn:** https://www.linkedin.com/in/nermin-ghith/
 
 ## 🛠 Data Science tools
-- **Languages :** cypher, neo4j, Python, R
+- **Languages :** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- **Database Technologies:** Neo4j (Cypher, Graph Algorithms)
+ ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 - **Data Visualization and Web Development Tools :** Dash, Plotly, Tableau, ArcGIS
 - **Containerization and Orchestration Tools :** Docker, Kubernetes
 - **Version Control Systems :** Git, Github
@@ -23,10 +28,8 @@
 - **Pharmacoeconomics and Research Software:** STATA, SPSS, Win BUGS, PSPP, and G*Powe, among others
 - **Statistical Analysis and Epidemiology Software:** SOFA Statistics, OpenSAGE (Statistical Analysis for Genetic Epidemiology), Epi Info, RevMan, among others
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+
 
 ![Dash](https://img.shields.io/badge/Dash-008080?style=for-the-badge&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
