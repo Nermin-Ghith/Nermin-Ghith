@@ -21,33 +21,29 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 - **Database Technologies:** Neo4j (Cypher, Graph Algorithms)
  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-- **Data Visualization and Web Development Tools :** Dash, Plotly, Tableau, ArcGIS
-- **Containerization and Orchestration Tools :** Docker, Kubernetes
-- **Version Control Systems :** Git, Github
-- **Pharmacoepi software/packages/libraries:** nlmixr among others
-- **Pharmacoeconomics and Research Software:** STATA, SPSS, Win BUGS, PSPP, and G*Powe, among others
-- **Statistical Analysis and Epidemiology Software:** SOFA Statistics, OpenSAGE (Statistical Analysis for Genetic Epidemiology), Epi Info, RevMan, among others
-
-
-
-
-![Dash](https://img.shields.io/badge/Dash-008080?style=for-the-badge&logo=plotly&logoColor=white)
+- **Data Visualization and Web Development Tools :** 
+ ![Dash](https://img.shields.io/badge/Dash-008080?style=for-the-badge&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-5A69A4?style=for-the-badge&logo=arcgis&logoColor=white)
+ 
+- **Containerization and Orchestration Tools :** 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+- **Version Control Systems :** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&mailchimp=github&logoColor=white)
 
+- **Pharmacoepi software/packages/libraries:** nlmixr among others
+- **Pharmacoeconomics and Research Software:** 
 ![STATA](https://img.shields.io/badge/STATA-1A5FAB?style=for-the-badge&logo=stata&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-006CB4?style=for-the-badge&logo=spss&logoColor=white)
-
-
 ![WinBUGS](https://img.shields.io/badge/WinBUGS-000000?style=for-the-badge&logo=winbugs&logoColor=white)  
 ![PSPP](https://img.shields.io/badge/PSPP-005CAC?style=for-the-badge&logo=pspp&logoColor=white)  
-![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white) 
+![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white)
 
+- **Statistical Analysis and (genetic) Epidemiology Software:** 
 ![SOFA Statistics](https://img.shields.io/badge/SOFA_Statistics-800000?style=for-the-badge&logo=sofa-statistics&logoColor=white) 
 ![OpenSAGE](https://img.shields.io/badge/OpenSAGE-4DB33D?style=for-the-badge&logo=opensage&logoColor=white) 
 ![Epi Info](https://img.shields.io/badge/Epi_Info-4E5B31?style=for-the-badge&logo=epi-info&logoColor=white) 
@@ -62,7 +58,7 @@
 
 ![Badge](https://img.shields.io/badge/label-message-color)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Nermin-Ghith.yourRepository)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Nermin-Ghith.Nermin-Ghith)
 
 
 
