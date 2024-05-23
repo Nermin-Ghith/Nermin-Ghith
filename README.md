@@ -13,13 +13,21 @@
 - ⚡ Fun fact: I love watching horror movies (not the bloody ones), such as the ones that are bringing your childhood fears, such as The Tooth Fairy 
 
 ## 📫 How to Reach Me
-- **LinkedIn:** https://www.linkedin.com/in/nermin-ghith/
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nermin-ghith/)
 
 ## 🛠 Data Science tools
-- **Languages :** 
+- **Languages and data science tools:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+- **Interactive and scientific computing:**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+
 - **Database Technologies:** 
  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Cypher](https://img.shields.io/badge/Cypher-0A0FFF?style=for-the-badge&logo=neo4j&logoColor=white)
@@ -53,6 +61,10 @@
 ![Epi Info](https://img.shields.io/badge/Epi_Info-4E5B31?style=for-the-badge&logo=epi-info&logoColor=white) 
 ![RevMan](https://img.shields.io/badge/RevMan-FF6F61?style=for-the-badge&logo=revman&logoColor=white) 
 
+**Operating systems:** 
+![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
  
 ## 🌱 GitHub Stats
