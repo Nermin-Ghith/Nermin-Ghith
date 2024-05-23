@@ -16,14 +16,37 @@
 
 ## 🛠 Data Science tools
 - **Languages :** cypher, neo4j, Python, R
-- **Web apps and services :** Dash, plotly, Docker, Kubernetes
-- **Tools:** Git, Github
-- **Pharmacoepi and research software:** STATA, SPSS, Win BUGS, PSPP, and G*Powe, SOFA Statistics, OpenSAGE (Statistical Analysis for Genetic Epidemiology), Epi Info, RevMan, amnog others
+- **Data Visualization and Web Development Tools :** Dash, Plotly, Tableau, ArcGIS
+- **Containerization and Orchestration Tools :** Docker, Kubernetes
+- **Version Control Systems :** Git, Github
+- **Pharmacoepi software/packages/libraries:** nlmixr among others
+- **Pharmacoeconomics and Research Software:** STATA, SPSS, Win BUGS, PSPP, and G*Powe, among others
+- **Statistical Analysis and Epidemiology Software:** SOFA Statistics, OpenSAGE (Statistical Analysis for Genetic Epidemiology), Epi Info, RevMan, among others
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+![Dash](https://img.shields.io/badge/Dash-008080?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&mailchimp=github&logoColor=white)
+
+![STATA](https://img.shields.io/badge/STATA-1A5FAB?style=for-the-badge&logo=stata&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-006CB4?style=for-the-badge&logo=spss&logoColor=white)
+![WinBUGS](https://img.shields.io/badge/WinBUGS-000000?style=for-the-badge&logo=winbugs&logoColor=white)  // Note: This badge is generic as there's no official logo for WinBUGS
+![PSPP](https://img.shields.io/badge/PSPP-005CAC?style=for-the-badge&logo=pspp&logoColor=white)  // Note: This badge is generic as there's no official logo for PSPP
+![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white) // Note: This badge is generic as there's no official logo for G*Power
+
+![SOFA Statistics](https://img.shields.io/badge/SOFA_Statistics-800000?style=for-the-badge&logo=sofa-statistics&logoColor=white) // Note: This badge is generic as there's no official logo for SOFA Statistics
+![OpenSAGE](https://img.shields.io/badge/OpenSAGE-4DB33D?style=for-the-badge&logo=opensage&logoColor=white) // Note: This badge is generic as there's no official logo for OpenSAGE
+![Epi Info](https://img.shields.io/badge/Epi_Info-4E5B31?style=for-the-badge&logo=epi-info&logoColor=white) // Note: This badge is generic as there's no official logo for Epi Info
+![RevMan](https://img.shields.io/badge/RevMan-FF6F61?style=for-the-badge&logo=revman&logoColor=white) // Note: This badge is generic as there's no official logo for RevMan
 
 
  
