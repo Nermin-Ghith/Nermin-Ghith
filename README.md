@@ -19,8 +19,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-- **Database Technologies:** Neo4j (Cypher, Graph Algorithms)
+- **Database Technologies:** 
  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-0A0FFF?style=for-the-badge&logo=neo4j&logoColor=white)
+![Graph Algorithms](https://img.shields.io/badge/Graph_Algorithms-FF5733?style=for-the-badge)
+
 - **Data Visualization and Web Development Tools :** 
  ![Dash](https://img.shields.io/badge/Dash-008080?style=for-the-badge&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -58,7 +61,7 @@
 
 ![Badge](https://img.shields.io/badge/label-message-color)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Nermin-Ghith.Nermin-Ghith)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nermin-Ghith.Nermin-Ghith&title=Visitors&color=0E75B6&style=flat-square)
 
 
 
