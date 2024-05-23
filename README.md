@@ -1,6 +1,7 @@
 
 # Hi there 👋, I'm Nermin! 
 # This is the new code profile for all my essential research and technical projects with the WHO!
+#:wave:!
 
 ## About Me
 🔭 I’m working on adding elements and repositories to this new GitHub interface, as I lost my old one. I am prioritizing repositories that use genomic data, drug use registry data, and the global burden of disease analytics. Some repositories will be ready this summer, and the others will be ready by the second half of 2024. Contact me if you need any further information on my previous projects that are still missing here. 
