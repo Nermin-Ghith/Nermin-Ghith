@@ -1,7 +1,7 @@
 
-# Hi there 👋, I'm Nermin! 
+# Hi there :wave: this is Nermin!
 # This is the new code profile for all my essential research and technical projects with the WHO!
-#:wave:!
+
 
 ## About Me
 🔭 I’m working on adding elements and repositories to this new GitHub interface, as I lost my old one. I am prioritizing repositories that use genomic data, drug use registry data, and the global burden of disease analytics. Some repositories will be ready this summer, and the others will be ready by the second half of 2024. Contact me if you need any further information on my previous projects that are still missing here. 
@@ -61,8 +61,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nermin-Ghith&layout=compact)
 
 ![Badge](https://img.shields.io/badge/label-message-color)
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Nermin-Ghith.Nermin-Ghith)
 
 
 
