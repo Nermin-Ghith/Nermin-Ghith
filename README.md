@@ -39,14 +39,16 @@
 
 ![STATA](https://img.shields.io/badge/STATA-1A5FAB?style=for-the-badge&logo=stata&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-006CB4?style=for-the-badge&logo=spss&logoColor=white)
-![WinBUGS](https://img.shields.io/badge/WinBUGS-000000?style=for-the-badge&logo=winbugs&logoColor=white)  // Note: This badge is generic as there's no official logo for WinBUGS
-![PSPP](https://img.shields.io/badge/PSPP-005CAC?style=for-the-badge&logo=pspp&logoColor=white)  // Note: This badge is generic as there's no official logo for PSPP
-![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white) // Note: This badge is generic as there's no official logo for G*Power
 
-![SOFA Statistics](https://img.shields.io/badge/SOFA_Statistics-800000?style=for-the-badge&logo=sofa-statistics&logoColor=white) // Note: This badge is generic as there's no official logo for SOFA Statistics
-![OpenSAGE](https://img.shields.io/badge/OpenSAGE-4DB33D?style=for-the-badge&logo=opensage&logoColor=white) // Note: This badge is generic as there's no official logo for OpenSAGE
-![Epi Info](https://img.shields.io/badge/Epi_Info-4E5B31?style=for-the-badge&logo=epi-info&logoColor=white) // Note: This badge is generic as there's no official logo for Epi Info
-![RevMan](https://img.shields.io/badge/RevMan-FF6F61?style=for-the-badge&logo=revman&logoColor=white) // Note: This badge is generic as there's no official logo for RevMan
+
+![WinBUGS](https://img.shields.io/badge/WinBUGS-000000?style=for-the-badge&logo=winbugs&logoColor=white)  
+![PSPP](https://img.shields.io/badge/PSPP-005CAC?style=for-the-badge&logo=pspp&logoColor=white)  
+![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white) 
+
+![SOFA Statistics](https://img.shields.io/badge/SOFA_Statistics-800000?style=for-the-badge&logo=sofa-statistics&logoColor=white) 
+![OpenSAGE](https://img.shields.io/badge/OpenSAGE-4DB33D?style=for-the-badge&logo=opensage&logoColor=white) 
+![Epi Info](https://img.shields.io/badge/Epi_Info-4E5B31?style=for-the-badge&logo=epi-info&logoColor=white) 
+![RevMan](https://img.shields.io/badge/RevMan-FF6F61?style=for-the-badge&logo=revman&logoColor=white) 
 
 
  
