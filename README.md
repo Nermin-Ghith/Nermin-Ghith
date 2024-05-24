@@ -27,10 +27,10 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![World Development Indicators](https://img.shields.io/badge/World_Bank_WDI-4063AD?style=for-the-badge)
 ![SDGs](https://img.shields.io/badge/World_Bank_SDGs-00C853?style=for-the-badge)
   
-- **Danish population and health registries:** DST hosted population and health registries, including the national patient's registry; RKKP databases, among others
+- **Danish population and health registries:** DST hosted population and health registries, including the national patient's registry; medication datasets, RKKP databases, among others
 ![Danish Registries](https://img.shields.io/badge/Danish_Health_Registries-DA291C?style=for-the-badge)
 
-- **Swedish population and health registries:** hosted population
+- **Swedish population and health registries:** hosted population and health registries, including the national patients registry, medication databases, among others
 ![Swedish Registries](https://img.shields.io/badge/Swedish_Health_Registries-006AA7?style=for-the-badge)
 
 - **Finnish population and health registries:** hosted population and health registries, including the national patients registry, medication databases, among others
