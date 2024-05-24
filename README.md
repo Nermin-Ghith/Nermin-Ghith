@@ -83,12 +83,12 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&mailchimp=github&logoColor=white)
 
-**Operating systems:** 
+## 🛠 Operating systems: 
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
-**Other:**
+## 🛠 Other:
 ![RAPIDS](https://img.shields.io/badge/RAPIDS_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
  
