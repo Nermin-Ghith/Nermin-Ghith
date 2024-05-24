@@ -159,7 +159,8 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
 
-## Professional Training and Certifications: I have provided instruction and consultation about the following topics
+## Professional Training and Certifications: 
+**I have provided instruction and consultation about the following topics:**
 
 - ![CPHQ Certification](https://img.shields.io/badge/CPHQ%20Certification-0077B5?style=for-the-badge)
 - ![Patient Safety](https://img.shields.io/badge/Patient%20Safety-009688?style=for-the-badge)
