@@ -52,7 +52,7 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![World Development Indicators](https://img.shields.io/badge/World_Bank_WDI-4063AD?style=for-the-badge)
 ![SDGs](https://img.shields.io/badge/World_Bank_SDGs-00C853?style=for-the-badge)
   
-- **Danish population and health registries:** DST hosted population and health registries, including the national patient's registry; medication datasets, RKKP databases, among others
+- **Danish population and health registries:** DST hosted population and health registries, including the national patient's registry, medication datasets, RKKP databases, among others
 ![Danish Registries](https://img.shields.io/badge/Danish_Health_Registries-DA291C?style=for-the-badge)
 
 - **Swedish population and health registries:** hosted population and health registries, including the national patients registry, medication databases, among others
@@ -160,13 +160,14 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 
 
 ## Professional Training and Certifications: 
-**I have provided instruction and consultation about the following topics:**
+**I have provided instruction and consultation to healthcare providers on the following topics:** I will add slides and codes by early June 2024
 
 - ![CPHQ Certification](https://img.shields.io/badge/CPHQ%20Certification-0077B5?style=for-the-badge)
 - ![Patient Safety](https://img.shields.io/badge/Patient%20Safety-009688?style=for-the-badge)
-- ![Leadership](https://img.shields.io/badge/Leadership-FF9800?style=for-the-badge)
+- ![Leadership and Organizational Culture](https://img.shields.io/badge/Leadership%20and%20Organizational%20Culture-4CAF50?style=for-the-badge)
 - ![Performance Improvement](https://img.shields.io/badge/Performance%20Improvement-3F51B5?style=for-the-badge)
 - ![Clinical Risk Management](https://img.shields.io/badge/Clinical%20Risk%20Management-9C27B0?style=for-the-badge)
+- ![Utilization Management](https://img.shields.io/badge/Utilization%20Management-2196F3?style=for-the-badge)
 - ![Total Quality Management](https://img.shields.io/badge/Total%20Quality%20Management-FF5722?style=for-the-badge)
 - ![Information Technology](https://img.shields.io/badge/Information%20Technology-607D8B?style=for-the-badge)
 - ![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-00BCD4?style=for-the-badge)
