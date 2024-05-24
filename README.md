@@ -32,7 +32,20 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 
 ![MLRA](https://img.shields.io/badge/MLRA-Multilevel%20Regression%20Analyses-0077B5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAKklEQVQ4jWNgGAVUBhD/Gf5jwKhrbM0cAxpmw0AYjQFyRh2gxzBiMABjGAAANa8U/WCn2cEAAAAASUVORK5CYII=)
 
+## 🛠 Supervised Learning Techniques 
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4C9F70?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FFC107?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-FF5722?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-673AB7?style=for-the-badge)
+![Random Forests](https://img.shields.io/badge/Random%20Forests-3F51B5?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-E91E63?style=for-the-badge)
 
+## 🛠 Unsupervised Learning Techniques 
+![K-Means Clustering](https://img.shields.io/badge/K--Means%20Clustering-009688?style=for-the-badge)
+![Hierarchical Clustering](https://img.shields.io/badge/Hierarchical%20Clustering-00BCD4?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-9C27B0?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-795548?style=for-the-badge)
+![Autoencoders](https://img.shields.io/badge/Autoencoders-607D8B?style=for-the-badge)
 
 
 ## 🛠 Data Sources and Expertise (selected) 
