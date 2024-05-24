@@ -19,17 +19,11 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 
 ## 🛠 Common Epidemiological Statistical Tests and Analyses
 ![Chi-Square Test](https://img.shields.io/badge/Chi--Square%20Test-007ACC?style=for-the-badge)
-
 ![T-Test](https://img.shields.io/badge/T--Test-4C9F70?style=for-the-badge)
-
 ![ANOVA](https://img.shields.io/badge/ANOVA(Analysis%20of%20Variance)-FFC107?style=for-the-badge)
-
 ![Regression Analysis](https://img.shields.io/badge/Regression%20Analysis-673AB7?style=for-the-badge)
-
 ![Survival Analysis](https://img.shields.io/badge/Survival%20Analysis-E91E63?style=for-the-badge)
-
 ![Cox Model](https://img.shields.io/badge/Cox%20Proportional%20Hazards%20Model-009688?style=for-the-badge)
-
 ![MLRA](https://img.shields.io/badge/MLRA-Multilevel%20Regression%20Analyses-0077B5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAKklEQVQ4jWNgGAVUBhD/Gf5jwKhrbM0cAxpmw0AYjQFyRh2gxzBiMABjGAAANa8U/WCn2cEAAAAASUVORK5CYII=)
 
 ## 🛠 Supervised Learning Techniques 
