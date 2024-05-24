@@ -100,10 +100,10 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 - **High-performance computing (HPC) in Denmark:**
 ![Danish Supercomputer](https://img.shields.io/badge/Danish_Supercomputer-004D40?style=for-the-badge)
 
-- **Data and High-performance computing (HPC) services for Bioinformatics in Denmark:**
+- **Data and High-performance computing (HPC) Services for Bioinformatics in Denmark:**
 ![Genome Center Supercomputer](https://img.shields.io/badge/Genome_Center_Supercomputer-1A237E?style=for-the-badge)
 
-- **Certified User:**
+- 
 ![Certified Statistics User](https://img.shields.io/badge/Certified_User_Statistics_Denmark_and_Statistics_Sweden-006064?style=for-the-badge)
 
  
