@@ -17,6 +17,14 @@
 Feel free to connect with me for collaboration or chat about potential opportunities.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-ghith)
 
+## 🛠 Databases (selected) 
+- **WHO:** GHO, GBD, European Health for All database (HFA-DB) data source 
+- **The World Bank:** World Development Indicators, SDGs 
+- **Danish population and health registries:** DST hosted population and health registries, including the national patient's registry; RKKP databases, among others
+- **Swedish population and health registries:** hosted population and health registries, including the national patients registry, medication and socioeconomic databases, among others
+- **Finnish population and health registries:** hosted population and health registries, including the national patients registry, medication databases, among others
+- **IHME:** global burden of disease estimates databases 
+
 ## 🛠 Epidemiological Toolbox
 
 - **Pharmacological clinical data analyses:**
@@ -51,7 +59,7 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 
 
 
-## 🛠 User of tools/facilities! 
+## 🛠 Facilities! 
 
 - **Access to national population and health registries in Nordic countries:** 
 ![Certified Statistics User](https://img.shields.io/badge/Certified_User_Statistics_Denmark_and_Statistics_Sweden-006064?style=for-the-badge)
@@ -62,8 +70,7 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 - **Data and High-performance computing (HPC) Services for Bioinformatics in Denmark:**
 ![Genome Center Supercomputer](https://img.shields.io/badge/Genome_Center_Supercomputer-1A237E?style=for-the-badge)
 
-- **NVIDIA and GPU based viz:**
-![RAPIDS](https://img.shields.io/badge/RAPIDS_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 
  
 ## 🛠 Data Science tools
@@ -95,9 +102,14 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+- **NVIDIA and GPU based viz:**
+![RAPIDS](https://img.shields.io/badge/RAPIDS_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 - **Version Control Systems :** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&mailchimp=github&logoColor=white)
+
+
 
 
 
