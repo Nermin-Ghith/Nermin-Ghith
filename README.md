@@ -159,6 +159,17 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
 
+## Professional Training and Certifications: I have provided instruction and consultation about the following topics
+
+- ![CPHQ Certification](https://img.shields.io/badge/CPHQ%20Certification-0077B5?style=for-the-badge)
+- ![Patient Safety](https://img.shields.io/badge/Patient%20Safety-009688?style=for-the-badge)
+- ![Leadership](https://img.shields.io/badge/Leadership-FF9800?style=for-the-badge)
+- ![Performance Improvement](https://img.shields.io/badge/Performance%20Improvement-3F51B5?style=for-the-badge)
+- ![Clinical Risk Management](https://img.shields.io/badge/Clinical%20Risk%20Management-9C27B0?style=for-the-badge)
+- ![Total Quality Management](https://img.shields.io/badge/Total%20Quality%20Management-FF5722?style=for-the-badge)
+- ![Information Technology](https://img.shields.io/badge/Information%20Technology-607D8B?style=for-the-badge)
+- ![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-00BCD4?style=for-the-badge)
+
 
 
 ## 🌱 GitHub Stats
