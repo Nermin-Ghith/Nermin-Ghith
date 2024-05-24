@@ -17,6 +17,31 @@
 Feel free to connect with me for collaboration or chat about potential opportunities.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-ghith)
 
+## 🛠 Common Epidemiological Statistical Tests and Analyses
+- **Chi-Square Test:**
+![Chi-Square Test](https://img.shields.io/badge/Chi--Square%20Test-007ACC?style=for-the-badge)
+
+- **T-Test :**
+![T-Test](https://img.shields.io/badge/T--Test-4C9F70?style=for-the-badge)
+
+- **ANOVA (Analysis of Variance) :**
+![ANOVA](https://img.shields.io/badge/ANOVA-FFC107?style=for-the-badge)
+
+- **Regression Analysis :**
+![Regression Analysis](https://img.shields.io/badge/Regression%20Analysis-673AB7?style=for-the-badge)
+
+- **Survival Analysis :**
+![Survival Analysis](https://img.shields.io/badge/Survival%20Analysis-E91E63?style=for-the-badge)
+
+- **Cox Proportional Hazards Model:**
+![Cox Model](https://img.shields.io/badge/Cox%20Proportional%20Hazards%20Model-009688?style=for-the-badge)
+
+- **MLRA:** Multilevel Regression Analyses
+![MLRA](https://img.shields.io/badge/MLRA-Multilevel%20Regression%20Analyses-0077B5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAKklEQVQ4jWNgGAVUBhD/Gf5jwKhrbM0cAxpmw0AYjQFyRh2gxzBiMABjGAAANa8U/WCn2cEAAAAASUVORK5CYII=)
+
+
+
+
 ## 🛠 Data Sources and Expertise (selected) 
 - **WHO:** GHO, GBD, European Health for All database (HFA-DB) data source
 ![GHO](https://img.shields.io/badge/WHO_GHO-004B87?style=for-the-badge)
