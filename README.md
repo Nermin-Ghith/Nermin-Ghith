@@ -28,16 +28,19 @@ Hi there 👋 this is Nermin!Again :)
 
 ## About Me
 🔭 I’m working on adding elements and repositories to this new GitHub interface, as I lost my old one. I am prioritizing repositories that use genomic data, drug use registry data, and the global burden of disease analytics. Some repositories will be ready this summer, and the others will be ready by the second half of 2024. Contact me if you need any further information on my previous projects that are still missing here. 
+
+## Current Learning
 - 🌱 I’m currently learning Biophysics
+
+## Collaboration Opportunities
 - 👯 I’m looking to collaborate on Durg use, side effects and interactions, epigenomics and transcriptomic disease profiling, healthcare analytics
 - 🤔 I’m looking for help with fast, scalable, interactive big data viz
 - 💬 Ask me about anything related to my profile or repositories
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love watching horror movies (not the bloody ones), such as the ones that are bringing your childhood fears, such as The Tooth Fairy 
 
-## 📫 How to Reach Me
-
-Feel free to connect with me for collaboration or chat about potential opportunities.
+## How to Reach Me
+📫 Feel free to connect with me for collaboration or chat about potential opportunities.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-ghith)
 
 ## 🛠 Common Epidemiological Statistical Tests and Analyses
