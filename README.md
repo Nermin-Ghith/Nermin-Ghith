@@ -142,7 +142,7 @@ Hi there 👋 this is Nermin!Again!
 
 
 
-## Facilities 🛠 
+## Facilities 
 
 - **Access to national population and health registries in Nordic countries:** 
 ![Certified Statistics User](https://img.shields.io/badge/Certified_User_Statistics_Denmark_and_Statistics_Sweden-006064?style=for-the-badge)
@@ -245,7 +245,7 @@ I have extensive experience teaching a wide range of subjects within the field o
 
 
 ## Professional Training and Certifications 📚 Course Materials
-**📚I have provided instruction and consultation to healthcare providers on the following topics:** I will add slides and codes by early June 2024
+**I have provided instruction and consultation to healthcare providers on the following topics:** I will add slides and codes by early June 2024
 
 - ![CPHQ Certification](https://img.shields.io/badge/CPHQ%20Certification-0077B5?style=for-the-badge)
 - ![Patient Safety](https://img.shields.io/badge/Patient%20Safety-009688?style=for-the-badge)
@@ -262,7 +262,8 @@ I have extensive experience teaching a wide range of subjects within the field o
 
 
 ## Current Learning
-- 🌱 I’m currently learning Biophysics
+- 🌱 I’m currently learning Biophysics.
+  
 [Back to Table of Contents](#toc)
 
 ## Collaboration Opportunities
@@ -286,4 +287,7 @@ I have extensive experience teaching a wide range of subjects within the field o
 [Back to Table of Contents](#toc)
 
 
+## Highlighted Projects: 
 
+
+[Back to Table of Contents](#toc)
