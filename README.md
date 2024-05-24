@@ -18,6 +18,12 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-ghith)
 
 ## 🛠 Epidemiological Toolbox
+
+- **Compositional Data Analysis:**
+<a href="https://www.compositionaldata.com/">
+    <img src="https://github.com/Nermin-Ghith/Nermin-Ghith/blob/main/SIMBOL.png?raw=true" alt="CoDa Logo" width="100" height="auto">
+</a>
+
 - **Pharmacoeconomics and Research Software:** 
 ![STATA](https://img.shields.io/badge/STATA-1A5FAB?style=for-the-badge&logo=stata&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-006CB4?style=for-the-badge&logo=spss&logoColor=white)
@@ -25,11 +31,6 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![PSPP](https://img.shields.io/badge/PSPP-005CAC?style=for-the-badge&logo=pspp&logoColor=white)  
 ![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white)
 
-
-- **Compositional Data Analysis:**
-<a href="https://www.compositionaldata.com/">
-    <img src="https://github.com/Nermin-Ghith/Nermin-Ghith/blob/main/SIMBOL.png?raw=true" alt="CoDa Logo" width="100" height="auto">
-</a>
 
 - **Statistical Analysis and (genetic) Epidemiology Software:**
 ![SOFA Statistics](https://img.shields.io/badge/SOFA_Statistics-800000?style=for-the-badge&logo=sofa-statistics&logoColor=white) 
