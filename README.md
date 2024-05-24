@@ -15,6 +15,7 @@
   - [Unsupervised Learning Techniques](#unsupervised-learning-techniques)
 - [Data Sources and Expertise](#data-sources-and-expertise)
 - [Epidemiological Toolbox](#epidemiological-toolbox)
+- [Facilities](#facilities)
 - [Data Science Tools](#data-science-tools)
 - [Operating Systems](#operating-systems)
 - [Teaching Portfolio](#teaching-portfolio)
@@ -24,13 +25,16 @@
 
 ## Introduction
 Hi there 👋 this is Nermin!Again :)
+[Back to Table of Contents](#toc)
 
 
 ## About Me
 🔭 I’m working on adding elements and repositories to this new GitHub interface, as I lost my old one. I am prioritizing repositories that use genomic data, drug use registry data, and the global burden of disease analytics. Some repositories will be ready this summer, and the others will be ready by the second half of 2024. Contact me if you need any further information on my previous projects that are still missing here. 
+[Back to Table of Contents](#toc)
 
 ## Current Learning
 - 🌱 I’m currently learning Biophysics
+[Back to Table of Contents](#toc)
 
 ## Collaboration Opportunities
 - 👯 I’m looking to collaborate on Durg use, side effects and interactions, epigenomics and transcriptomic disease profiling, healthcare analytics
@@ -38,10 +42,12 @@ Hi there 👋 this is Nermin!Again :)
 - 💬 Ask me about anything related to my profile or repositories
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love watching horror movies (not the bloody ones), such as the ones that are bringing your childhood fears, such as The Tooth Fairy 
+[Back to Table of Contents](#toc)
 
 ## How to Reach Me
 📫 Feel free to connect with me for collaboration or chat about potential opportunities.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-ghith)
+[Back to Table of Contents](#toc)
 
 ## Epidemiological Statistical Tests and Analyses
 🛠
@@ -52,6 +58,7 @@ Hi there 👋 this is Nermin!Again :)
 ![Survival Analysis](https://img.shields.io/badge/Survival%20Analysis-E91E63?style=for-the-badge)
 ![Cox Model](https://img.shields.io/badge/Cox%20Proportional%20Hazards%20Model-009688?style=for-the-badge)
 ![MLRA](https://img.shields.io/badge/MLRA-Multilevel%20Regression%20Analyses-0077B5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAKklEQVQ4jWNgGAVUBhD/Gf5jwKhrbM0cAxpmw0AYjQFyRh2gxzBiMABjGAAANa8U/WCn2cEAAAAASUVORK5CYII=)
+[Back to Table of Contents](#toc)
 
 ## Machine Learning Techniques
 ### Supervised Learning Techniques
@@ -61,6 +68,7 @@ Hi there 👋 this is Nermin!Again :)
 ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-673AB7?style=for-the-badge)
 ![Random Forests](https://img.shields.io/badge/Random%20Forests-3F51B5?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-E91E63?style=for-the-badge)
+[Back to Table of Contents](#toc)
 
 ### Unsupervised Learning Techniques
 ![K-Means Clustering](https://img.shields.io/badge/K--Means%20Clustering-009688?style=for-the-badge)
@@ -68,6 +76,7 @@ Hi there 👋 this is Nermin!Again :)
 ![PCA](https://img.shields.io/badge/PCA-9C27B0?style=for-the-badge)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-795548?style=for-the-badge)
 ![Autoencoders](https://img.shields.io/badge/Autoencoders-607D8B?style=for-the-badge)
+[Back to Table of Contents](#toc)
 
 
 ## Data Sources and Expertise
@@ -92,6 +101,8 @@ Hi there 👋 this is Nermin!Again :)
 
 - **IHME:** global burden of disease estimates databases
 ![IHME GBD](https://img.shields.io/badge/IHME_GBD-FF5700?style=for-the-badge)
+[Back to Table of Contents](#toc)
+
 
 
 ## Epidemiological Toolbox
@@ -126,10 +137,12 @@ Hi there 👋 this is Nermin!Again :)
 <a href="https://www.compositionaldata.com/">
     <img src="https://github.com/Nermin-Ghith/Nermin-Ghith/blob/main/SIMBOL.png?raw=true" alt="CoDa Logo" width="100" height="auto">
 </a>
+[Back to Table of Contents](#toc)
 
 
 
-## 🛠 Facilities! 
+
+## Facilities 🛠 
 
 - **Access to national population and health registries in Nordic countries:** 
 ![Certified Statistics User](https://img.shields.io/badge/Certified_User_Statistics_Denmark_and_Statistics_Sweden-006064?style=for-the-badge)
@@ -139,6 +152,7 @@ Hi there 👋 this is Nermin!Again :)
 
 - **Data and High-performance computing (HPC) Services for Bioinformatics in Denmark:**
 ![Genome Center Supercomputer](https://img.shields.io/badge/Genome_Center_Supercomputer-1A237E?style=for-the-badge)
+[Back to Table of Contents](#toc)
 
 
 
@@ -178,6 +192,7 @@ Hi there 👋 this is Nermin!Again :)
 - **Version Control Systems :** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&mailchimp=github&logoColor=white)
+[Back to Table of Contents](#toc)
 
 
 
@@ -187,6 +202,7 @@ Hi there 👋 this is Nermin!Again :)
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
+[Back to Table of Contents](#toc)
 
 
 
@@ -216,6 +232,7 @@ I have extensive experience teaching a wide range of subjects within the field o
 
 ### Bachelor Project 📖 Curriculum Overview
 ![Bachelor Project](https://img.shields.io/badge/Bachelor%20Project-607D8B?style=for-the-badge)
+[Back to Table of Contents](#toc)
 
 
 
@@ -232,6 +249,7 @@ I have extensive experience teaching a wide range of subjects within the field o
 - ![Information Technology](https://img.shields.io/badge/Information%20Technology-607D8B?style=for-the-badge)
 - ![Healthcare Analytics](https://img.shields.io/badge/Healthcare%20Analytics-00BCD4?style=for-the-badge)
 
+[Back to Table of Contents](#toc)
 
 
 ## GitHub Stats
@@ -241,6 +259,7 @@ I have extensive experience teaching a wide range of subjects within the field o
 
 ![Badge](https://img.shields.io/badge/label-message-color)
 
+[Back to Table of Contents](#toc)
 
 
 
