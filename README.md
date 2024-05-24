@@ -88,8 +88,19 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
-## 🛠 Other:
+## 🛠 Other: I am a user of the following tools/facilities 
+
+-**NVIDIA and GPU based viz:**
 ![RAPIDS](https://img.shields.io/badge/RAPIDS_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+- **Danish Supercomputer:**
+![Danish Supercomputer](https://img.shields.io/badge/Danish_Supercomputer-004D40?style=for-the-badge)
+
+- **Supercomputer Facility at the National Genome Center in Denmark:**
+![Genome Center Supercomputer](https://img.shields.io/badge/Genome_Center_Supercomputer-1A237E?style=for-the-badge)
+
+- **Certified User of Statistics Denmark and Sweden:**
+![Certified Statistics User](https://img.shields.io/badge/Certified_Statistics_Denmark_Sweden-006064?style=for-the-badge)
 
  
 ## 🌱 GitHub Stats
