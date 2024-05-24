@@ -103,7 +103,7 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 - **Data and High-performance computing (HPC) Services for Bioinformatics in Denmark:**
 ![Genome Center Supercomputer](https://img.shields.io/badge/Genome_Center_Supercomputer-1A237E?style=for-the-badge)
 
-- 
+- **Access to national population and health registries in Nordic countries:** 
 ![Certified Statistics User](https://img.shields.io/badge/Certified_User_Statistics_Denmark_and_Statistics_Sweden-006064?style=for-the-badge)
 
  
