@@ -159,6 +159,36 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
 
+
+## 🎓 My Teaching Portfolio
+
+Here, you'll find details about the courses I teach, including syllabi, teaching philosophies, and student testimonials. 
+
+I have extensive experience teaching a wide range of subjects within the field of public health and epidemiology. Below are the courses I've instructed, along with key topics covered in each. I will add more details in June 2024
+
+### Epidemiology and Statistics
+![Epidemiology and Statistics](https://img.shields.io/badge/Epidemiology%20and%20Statistics-4CAF50?style=for-the-badge)
+
+### Clinical Global Infectious Diseases
+![Clinical Global Infectious Diseases](https://img.shields.io/badge/Clinical%20Global%20Infectious%20Diseases-2196F3?style=for-the-badge)
+
+### Oncology and Public Health
+![Oncology and Public Health](https://img.shields.io/badge/Oncology%20and%20Public%20Health-F44336?style=for-the-badge)
+
+### Advanced Statistical Analysis of Time-to-Event Data
+![Advanced Statistics](https://img.shields.io/badge/Advanced%20Statistical%20Analysis%20of%20Time--to--Event%20Data-9C27B0?style=for-the-badge)
+
+### Master Thesis
+![Master Thesis](https://img.shields.io/badge/Master%20Thesis-FF9800?style=for-the-badge)
+
+### Masterclass in Public Health
+![Masterclass in Public Health](https://img.shields.io/badge/Masterclass%20in%20Public%20Health-00BCD4?style=for-the-badge)
+
+### Bachelor Project
+![Bachelor Project](https://img.shields.io/badge/Bachelor%20Project-607D8B?style=for-the-badge)
+
+
+
 ## Professional Training and Certifications: 
 **I have provided instruction and consultation to healthcare providers on the following topics:** I will add slides and codes by early June 2024
 
