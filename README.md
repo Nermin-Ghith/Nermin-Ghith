@@ -166,30 +166,30 @@ Here, you'll find details about the courses I teach, including syllabi, teaching
 
 I have extensive experience teaching a wide range of subjects within the field of public health and epidemiology. Below are the courses I've instructed, along with key topics covered in each. I will add more details in June 2024
 
-### Epidemiology and Statistics 📚 Course Materials
+### Epidemiology and Statistics 📖 Curriculum Overview
 ![Epidemiology and Statistics](https://img.shields.io/badge/Epidemiology%20and%20Statistics-4CAF50?style=for-the-badge)
 
-### Clinical Global Infectious Diseases 📚 Course Materials
+### Clinical Global Infectious Diseases 📖 Curriculum Overview
 ![Clinical Global Infectious Diseases](https://img.shields.io/badge/Clinical%20Global%20Infectious%20Diseases-2196F3?style=for-the-badge)
 
-### Oncology and Public Health 📚 Course Materials
+### Oncology and Public Health 📖 Curriculum Overview
 ![Oncology and Public Health](https://img.shields.io/badge/Oncology%20and%20Public%20Health-F44336?style=for-the-badge)
 
-### Advanced Statistical Analysis of Time-to-Event Data 📚 Course Materials
+### Advanced Statistical Analysis of Time-to-Event Data 📖 Curriculum Overview
 ![Advanced Statistics](https://img.shields.io/badge/Advanced%20Statistical%20Analysis%20of%20Time--to--Event%20Data-9C27B0?style=for-the-badge)
 
-### Master Thesis 📚 Course Materials
+### Master Thesis 📖 Curriculum Overview
 ![Master Thesis](https://img.shields.io/badge/Master%20Thesis-FF9800?style=for-the-badge)
 
-### Masterclass in Public Health 📚 Course Materials
+### Masterclass in Public Health 📖 Curriculum Overview
 ![Masterclass in Public Health](https://img.shields.io/badge/Masterclass%20in%20Public%20Health-00BCD4?style=for-the-badge)
 
-### Bachelor Project 📚 Course Materials
+### Bachelor Project 📖 Curriculum Overview
 ![Bachelor Project](https://img.shields.io/badge/Bachelor%20Project-607D8B?style=for-the-badge)
 
 
 
-## Professional Training and Certifications: 
+## Professional Training and Certifications: 📚 Course Materials
 **I have provided instruction and consultation to healthcare providers on the following topics:** I will add slides and codes by early June 2024
 
 - ![CPHQ Certification](https://img.shields.io/badge/CPHQ%20Certification-0077B5?style=for-the-badge)
