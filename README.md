@@ -50,6 +50,22 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 </a>
 
 
+
+## 🛠 User of tools/facilities! 
+
+- **Access to national population and health registries in Nordic countries:** 
+![Certified Statistics User](https://img.shields.io/badge/Certified_User_Statistics_Denmark_and_Statistics_Sweden-006064?style=for-the-badge)
+
+- **High-performance computing (HPC) in Denmark:**
+![Danish Supercomputer](https://img.shields.io/badge/Danish_Supercomputer-004D40?style=for-the-badge)
+
+- **Data and High-performance computing (HPC) Services for Bioinformatics in Denmark:**
+![Genome Center Supercomputer](https://img.shields.io/badge/Genome_Center_Supercomputer-1A237E?style=for-the-badge)
+
+- **NVIDIA and GPU based viz:**
+![RAPIDS](https://img.shields.io/badge/RAPIDS_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+ 
 ## 🛠 Data Science tools
 - **Languages and data science tools:** 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -92,21 +108,7 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 
 
 
-## 🛠 Other: I used and accessed the following tools/facilities! 
 
-- **NVIDIA and GPU based viz:**
-![RAPIDS](https://img.shields.io/badge/RAPIDS_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-- **High-performance computing (HPC) in Denmark:**
-![Danish Supercomputer](https://img.shields.io/badge/Danish_Supercomputer-004D40?style=for-the-badge)
-
-- **Data and High-performance computing (HPC) Services for Bioinformatics in Denmark:**
-![Genome Center Supercomputer](https://img.shields.io/badge/Genome_Center_Supercomputer-1A237E?style=for-the-badge)
-
-- **Access to national population and health registries in Nordic countries:** 
-![Certified Statistics User](https://img.shields.io/badge/Certified_User_Statistics_Denmark_and_Statistics_Sweden-006064?style=for-the-badge)
-
- 
 ## 🌱 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nermin-Ghith&show_icons=true)
 
