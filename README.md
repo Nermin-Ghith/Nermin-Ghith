@@ -17,6 +17,22 @@
 Feel free to connect with me for collaboration or chat about potential opportunities.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-ghith)
 
+## 🛠 Epidemiological Toolbox
+- **Pharmacoeconomics and Research Software:** 
+![STATA](https://img.shields.io/badge/STATA-1A5FAB?style=for-the-badge&logo=stata&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-006CB4?style=for-the-badge&logo=spss&logoColor=white)
+![WinBUGS](https://img.shields.io/badge/WinBUGS-000000?style=for-the-badge&logo=winbugs&logoColor=white)  
+![PSPP](https://img.shields.io/badge/PSPP-005CAC?style=for-the-badge&logo=pspp&logoColor=white)  
+![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white)
+
+- **Statistical Analysis and (genetic) Epidemiology Software:** 
+![SOFA Statistics](https://img.shields.io/badge/SOFA_Statistics-800000?style=for-the-badge&logo=sofa-statistics&logoColor=white) 
+![OpenSAGE](https://img.shields.io/badge/OpenSAGE-4DB33D?style=for-the-badge&logo=opensage&logoColor=white) 
+![Epi Info](https://img.shields.io/badge/Epi_Info-4E5B31?style=for-the-badge&logo=epi-info&logoColor=white) 
+![RevMan](https://img.shields.io/badge/RevMan-FF6F61?style=for-the-badge&logo=revman&logoColor=white)
+
+- **Pharmacoepi software/packages/libraries:** nlmixr among others
+
 
 ## 🛠 Data Science tools
 - **Languages and data science tools:** 
@@ -49,20 +65,6 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 - **Version Control Systems :** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&mailchimp=github&logoColor=white)
-
-- **Pharmacoepi software/packages/libraries:** nlmixr among others
-- **Pharmacoeconomics and Research Software:** 
-![STATA](https://img.shields.io/badge/STATA-1A5FAB?style=for-the-badge&logo=stata&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-006CB4?style=for-the-badge&logo=spss&logoColor=white)
-![WinBUGS](https://img.shields.io/badge/WinBUGS-000000?style=for-the-badge&logo=winbugs&logoColor=white)  
-![PSPP](https://img.shields.io/badge/PSPP-005CAC?style=for-the-badge&logo=pspp&logoColor=white)  
-![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white)
-
-- **Statistical Analysis and (genetic) Epidemiology Software:** 
-![SOFA Statistics](https://img.shields.io/badge/SOFA_Statistics-800000?style=for-the-badge&logo=sofa-statistics&logoColor=white) 
-![OpenSAGE](https://img.shields.io/badge/OpenSAGE-4DB33D?style=for-the-badge&logo=opensage&logoColor=white) 
-![Epi Info](https://img.shields.io/badge/Epi_Info-4E5B31?style=for-the-badge&logo=epi-info&logoColor=white) 
-![RevMan](https://img.shields.io/badge/RevMan-FF6F61?style=for-the-badge&logo=revman&logoColor=white) 
 
 **Operating systems:** 
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
