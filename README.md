@@ -19,11 +19,6 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 
 ## 🛠 Epidemiological Toolbox
 
-- **Compositional Data Analysis:**
-<a href="https://www.compositionaldata.com/">
-    <img src="https://github.com/Nermin-Ghith/Nermin-Ghith/blob/main/SIMBOL.png?raw=true" alt="CoDa Logo" width="100" height="auto">
-</a>
-
 - **Pharmacological clinical data analyses:**
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 
@@ -49,7 +44,10 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-
+- **Compositional Data Analysis:**
+<a href="https://www.compositionaldata.com/">
+    <img src="https://github.com/Nermin-Ghith/Nermin-Ghith/blob/main/SIMBOL.png?raw=true" alt="CoDa Logo" width="100" height="auto">
+</a>
 
 
 ## 🛠 Data Science tools
