@@ -43,7 +43,8 @@ Hi there 👋 this is Nermin!Again :)
 📫 Feel free to connect with me for collaboration or chat about potential opportunities.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-ghith)
 
-## 🛠 Common Epidemiological Statistical Tests and Analyses
+## Epidemiological Statistical Tests and Analyses
+🛠
 ![Chi-Square Test](https://img.shields.io/badge/Chi--Square%20Test-007ACC?style=for-the-badge)
 ![T-Test](https://img.shields.io/badge/T--Test-4C9F70?style=for-the-badge)
 ![ANOVA](https://img.shields.io/badge/ANOVA(Analysis%20of%20Variance)-FFC107?style=for-the-badge)
