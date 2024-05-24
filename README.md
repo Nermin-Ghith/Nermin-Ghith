@@ -17,13 +17,24 @@
 Feel free to connect with me for collaboration or chat about potential opportunities.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nermin-ghith)
 
-## 🛠 Databases (selected) 
+## 🛠 Data Sources and Expertise (selected) 
 - **WHO:** GHO, GBD, European Health for All database (HFA-DB) data source 
 - **The World Bank:** World Development Indicators, SDGs 
 - **Danish population and health registries:** DST hosted population and health registries, including the national patient's registry; RKKP databases, among others
 - **Swedish population and health registries:** hosted population and health registries, including the national patients registry, medication and socioeconomic databases, among others
 - **Finnish population and health registries:** hosted population and health registries, including the national patients registry, medication databases, among others
-- **IHME:** global burden of disease estimates databases 
+- **IHME:** global burden of disease estimates databases
+
+- ![GHO](https://img.shields.io/badge/WHO_GHO-004B87?style=for-the-badge)
+- ![GBD](https://img.shields.io/badge/WHO_GBD-008B8B?style=for-the-badge)
+- ![HFA-DB](https://img.shields.io/badge/WHO_HFA--DB-3F007D?style=for-the-badge)
+- ![World Development Indicators](https://img.shields.io/badge/World_Bank_WDI-4063AD?style=for-the-badge)
+- ![SDGs](https://img.shields.io/badge/World_Bank_SDGs-00C853?style=for-the-badge)
+- ![Danish Registries](https://img.shields.io/badge/Danish_Health_Registries-DA291C?style=for-the-badge)
+- ![Swedish Registries](https://img.shields.io/badge/Swedish_Health_Registries-006AA7?style=for-the-badge)
+- ![Finnish Registries](https://img.shields.io/badge/Finnish_Health_Registries-003580?style=for-the-badge)
+- ![IHME GBD](https://img.shields.io/badge/IHME_GBD-FF5700?style=for-the-badge)
+
 
 ## 🛠 Epidemiological Toolbox
 
