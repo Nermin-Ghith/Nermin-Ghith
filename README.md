@@ -26,7 +26,10 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white)
 
 - **Statistical Analysis and (genetic) Epidemiology Software:**
-![CoDa Logo](https://github.com/Nermin-Ghith/Nermin-Ghith/blob/main/SIMBOL.png?raw=true)
+
+<a href="https://www.compositionaldata.com/">
+    <img src="https://github.com/Nermin-Ghith/Nermin-Ghith/blob/main/SIMBOL.png?raw=true" alt="CoDa Logo" width="200" height="auto">
+</a>
 
 
 ![SOFA Statistics](https://img.shields.io/badge/SOFA_Statistics-800000?style=for-the-badge&logo=sofa-statistics&logoColor=white) 
