@@ -83,24 +83,28 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&mailchimp=github&logoColor=white)
 
+
+
 ## 🛠 Operating systems: 
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
-## 🛠 Other: I use the following tools/facilities! 
+
+
+## 🛠 Other: I used and accessed the following tools/facilities! 
 
 - **NVIDIA and GPU based viz:**
 ![RAPIDS](https://img.shields.io/badge/RAPIDS_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-- **Danish Supercomputer:**
+- **High-performance computing (HPC) in Denmark:**
 ![Danish Supercomputer](https://img.shields.io/badge/Danish_Supercomputer-004D40?style=for-the-badge)
 
-- **Supercomputer Facility at the National Genome Center in Denmark:**
+- **Data and High-performance computing (HPC) services for Bioinformatics in Denmark:**
 ![Genome Center Supercomputer](https://img.shields.io/badge/Genome_Center_Supercomputer-1A237E?style=for-the-badge)
 
 - **Certified User:**
-![Certified Statistics User](https://img.shields.io/badge/Certified_Statistics_Denmark_Sweden-006064?style=for-the-badge)
+![Certified Statistics User](https://img.shields.io/badge/Certified_User_Statistics_Denmark_and_Statistics_Sweden-006064?style=for-the-badge)
 
  
 ## 🌱 GitHub Stats
