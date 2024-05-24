@@ -53,7 +53,8 @@ Hi there 👋 this is Nermin!Again :)
 ![Cox Model](https://img.shields.io/badge/Cox%20Proportional%20Hazards%20Model-009688?style=for-the-badge)
 ![MLRA](https://img.shields.io/badge/MLRA-Multilevel%20Regression%20Analyses-0077B5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAKklEQVQ4jWNgGAVUBhD/Gf5jwKhrbM0cAxpmw0AYjQFyRh2gxzBiMABjGAAANa8U/WCn2cEAAAAASUVORK5CYII=)
 
-## 🛠 Supervised Learning Techniques 
+## Machine Learning Techniques
+### Supervised Learning Techniques
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4C9F70?style=for-the-badge)
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FFC107?style=for-the-badge)
 ![SVM](https://img.shields.io/badge/SVM-FF5722?style=for-the-badge)
@@ -61,7 +62,7 @@ Hi there 👋 this is Nermin!Again :)
 ![Random Forests](https://img.shields.io/badge/Random%20Forests-3F51B5?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-E91E63?style=for-the-badge)
 
-## 🛠 Unsupervised Learning Techniques 
+### Unsupervised Learning Techniques
 ![K-Means Clustering](https://img.shields.io/badge/K--Means%20Clustering-009688?style=for-the-badge)
 ![Hierarchical Clustering](https://img.shields.io/badge/Hierarchical%20Clustering-00BCD4?style=for-the-badge)
 ![PCA](https://img.shields.io/badge/PCA-9C27B0?style=for-the-badge)
@@ -69,7 +70,8 @@ Hi there 👋 this is Nermin!Again :)
 ![Autoencoders](https://img.shields.io/badge/Autoencoders-607D8B?style=for-the-badge)
 
 
-## 🛠 Data Sources and Expertise (selected) 
+## Data Sources and Expertise
+🛠 
 - **WHO:** GHO, GBD, European Health for All database (HFA-DB) data source
 ![GHO](https://img.shields.io/badge/WHO_GHO-004B87?style=for-the-badge)
 ![GBD](https://img.shields.io/badge/WHO_GBD-008B8B?style=for-the-badge)
@@ -92,7 +94,8 @@ Hi there 👋 this is Nermin!Again :)
 ![IHME GBD](https://img.shields.io/badge/IHME_GBD-FF5700?style=for-the-badge)
 
 
-## 🛠 Epidemiological Toolbox
+## Epidemiological Toolbox
+🛠 
 
 - **Pharmacological clinical data analyses:**
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
@@ -140,7 +143,7 @@ Hi there 👋 this is Nermin!Again :)
 
 
  
-## 🛠 Data Science tools
+## Data Science Tools
 - **Languages and data science tools:** 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![R Shiny](https://img.shields.io/badge/R_Shiny-1351B4?style=for-the-badge&logo=shiny&logoColor=white)
@@ -180,16 +183,16 @@ Hi there 👋 this is Nermin!Again :)
 
 
 
-## 🛠 Operating systems: 
+## Operating Systems
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
 
 
-## 🎓 My Teaching Portfolio
+## Teaching Portfolio
 
-Here, you'll find details about the courses I teach, including syllabi, teaching philosophies, and student testimonials. 
+🎓 Here, you'll find details about the courses I teach, including syllabi, teaching philosophies, and student testimonials. 
 
 I have extensive experience teaching a wide range of subjects within the field of public health and epidemiology. Below are the courses I've instructed, along with key topics covered in each. I will add more details in June 2024
 
@@ -216,8 +219,8 @@ I have extensive experience teaching a wide range of subjects within the field o
 
 
 
-## Professional Training and Certifications: 📚 Course Materials
-**I have provided instruction and consultation to healthcare providers on the following topics:** I will add slides and codes by early June 2024
+## Professional Training and Certifications 📚 Course Materials
+**📚I have provided instruction and consultation to healthcare providers on the following topics:** I will add slides and codes by early June 2024
 
 - ![CPHQ Certification](https://img.shields.io/badge/CPHQ%20Certification-0077B5?style=for-the-badge)
 - ![Patient Safety](https://img.shields.io/badge/Patient%20Safety-009688?style=for-the-badge)
@@ -231,8 +234,8 @@ I have extensive experience teaching a wide range of subjects within the field o
 
 
 
-## 🌱 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nermin-Ghith&show_icons=true)
+## GitHub Stats
+🌱 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nermin-Ghith&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nermin-Ghith&layout=compact)
 
