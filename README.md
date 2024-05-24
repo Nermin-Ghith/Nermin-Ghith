@@ -3,6 +3,29 @@
 # This is the new code profile for all my essential research and technical projects with the WHO!
 
 
+## Table of Contents
+- [Introduction](#introduction)
+- [About Me](#about-me)
+- [Current Learning](#current-learning)
+- [Collaboration Opportunities](#collaboration-opportunities)
+- [How to Reach Me](#how-to-reach-me)
+- [Epidemiological Statistical Tests and Analyses](#epidemiological-statistical-tests-and-analyses)
+- [Machine Learning Techniques](#machine-learning-techniques)
+  - [Supervised Learning Techniques](#supervised-learning-techniques)
+  - [Unsupervised Learning Techniques](#unsupervised-learning-techniques)
+- [Data Sources and Expertise](#data-sources-and-expertise)
+- [Epidemiological Toolbox](#epidemiological-toolbox)
+- [Data Science Tools](#data-science-tools)
+- [Operating Systems](#operating-systems)
+- [Teaching Portfolio](#teaching-portfolio)
+- [Professional Training and Certifications](#professional-training-and-certifications)
+- [GitHub Stats](#github-stats)
+- [Highlighted Projects](#highlighted-projects)
+
+## Introduction
+Hi there 👋 this is Nermin!Again :)
+
+
 ## About Me
 🔭 I’m working on adding elements and repositories to this new GitHub interface, as I lost my old one. I am prioritizing repositories that use genomic data, drug use registry data, and the global burden of disease analytics. Some repositories will be ready this summer, and the others will be ready by the second half of 2024. Contact me if you need any further information on my previous projects that are still missing here. 
 - 🌱 I’m currently learning Biophysics
