@@ -25,13 +25,13 @@ Feel free to connect with me for collaboration or chat about potential opportuni
 ![PSPP](https://img.shields.io/badge/PSPP-005CAC?style=for-the-badge&logo=pspp&logoColor=white)  
 ![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white)
 
-- **Statistical Analysis and (genetic) Epidemiology Software:**
 
+- **Compositional Data Analysis:**
 <a href="https://www.compositionaldata.com/">
-    <img src="https://github.com/Nermin-Ghith/Nermin-Ghith/blob/main/SIMBOL.png?raw=true" alt="CoDa Logo" width="200" height="auto">
+    <img src="https://github.com/Nermin-Ghith/Nermin-Ghith/blob/main/SIMBOL.png?raw=true" alt="CoDa Logo" width="100" height="auto">
 </a>
 
-
+- **Statistical Analysis and (genetic) Epidemiology Software:**
 ![SOFA Statistics](https://img.shields.io/badge/SOFA_Statistics-800000?style=for-the-badge&logo=sofa-statistics&logoColor=white) 
 ![OpenSAGE](https://img.shields.io/badge/OpenSAGE-4DB33D?style=for-the-badge&logo=opensage&logoColor=white) 
 ![Epi Info](https://img.shields.io/badge/Epi_Info-4E5B31?style=for-the-badge&logo=epi-info&logoColor=white) 
