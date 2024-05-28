@@ -22,7 +22,7 @@
 - [Collaboration Opportunities](#collaboration-opportunities)
 - [GitHub Stats](#github-stats)
 - [Highlighted Projects](#highlighted-projects)
-- [Selected_publications](#selected-publications)
+- [Selected publications](#selected-publications)
 
 ## Introduction
 Hi there 👋 this is Nermin!Again!
@@ -263,7 +263,7 @@ I have extensive experience teaching a wide range of subjects within the field o
 
 
 ## Selected publications
-![Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Nermin+Ghith&size=200)
+![Pubmed](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Pubmed&logoColor=white)](https://pubmed.ncbi.nlm.nih.gov/?term=Nermin+Ghith&size=200)
 
 [Back to Table of Contents](#toc)
 
