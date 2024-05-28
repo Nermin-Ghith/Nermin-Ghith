@@ -18,11 +18,12 @@
 - [Operating Systems](#operating-systems)
 - [Teaching Portfolio](#teaching-portfolio)
 - [Professional Training and Certifications](#professional-training-and-certifications)
+- [Selected publications](#selected-publications)
 - [Current Learning](#current-learning)
 - [Collaboration Opportunities](#collaboration-opportunities)
 - [GitHub Stats](#github-stats)
 - [Highlighted Projects](#highlighted-projects)
-- [Selected publications](#selected-publications)
+
 
 ## Introduction
 Hi there 👋 this is Nermin!Again!
@@ -263,7 +264,8 @@ I have extensive experience teaching a wide range of subjects within the field o
 
 
 ## Selected publications
-![Pubmed](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Pubmed&logoColor=white)](https://pubmed.ncbi.nlm.nih.gov/?term=Nermin+Ghith&size=200)
+[![PubMed Publications](https://img.shields.io/badge/PubMed-Publications-blue?style=for-the-badge)](https://pubmed.ncbi.nlm.nih.gov/?term=Nermin+Ghith&size=200)
+
 
 [Back to Table of Contents](#toc)
 
