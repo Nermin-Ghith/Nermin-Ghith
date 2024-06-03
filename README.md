@@ -299,4 +299,7 @@ I have extensive experience teaching a wide range of subjects within the field o
 ## Highlighted Projects: 
 
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nermin-Ghith.Nermin-Ghith)
+
+
 [Back to Table of Contents](#toc)
