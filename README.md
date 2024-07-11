@@ -122,6 +122,8 @@ Hi there 👋 this is Nermin!Again!
 - **pharmacokinetic/pharmacodynamic (PK/PD) analysis:**
 ![Phoenix WinNonlin](https://img.shields.io/badge/Phoenix%20WinNonlin-76B900?style=for-the-badge&logo=phoenix&logoColor=white)
 ![ADME Analyses](https://img.shields.io/badge/ADME%20Analyses-76B900?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_STRING&logoColor=white)
+![NONMEM](https://img.shields.io/badge/NONMEM-1A5FAB?style=for-the-badge&logo=data:image/png;base64,BASE64_IMAGE_STRING&logoColor=white)
+
 
 
 
