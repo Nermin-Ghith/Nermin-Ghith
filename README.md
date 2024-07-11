@@ -119,6 +119,9 @@ Hi there 👋 this is Nermin!Again!
 ![PSPP](https://img.shields.io/badge/PSPP-005CAC?style=for-the-badge&logo=pspp&logoColor=white)  
 ![G*Power](https://img.shields.io/badge/G*Power-76B900?style=for-the-badge&logo=gpower&logoColor=white)
 
+- **pharmacokinetic/pharmacodynamic (PK/PD) analysis:**
+![Phoenix WinNonlin](https://img.shields.io/badge/Phoenix%20WinNonlin-76B900?style=for-the-badge&logo=phoenix&logoColor=white)
+
 
 - **Statistical Analysis and (genetic) Epidemiology Software:**
 ![SOFA Statistics](https://img.shields.io/badge/SOFA_Statistics-800000?style=for-the-badge&logo=sofa-statistics&logoColor=white) 
