@@ -319,5 +319,5 @@ I have extensive experience teaching a wide range of subjects within the field o
 
 ## Copyright
 
-![CC-BY-SA 4.0 license (unless stated otherwise)]
+CC-BY-SA 4.0 license (unless stated otherwise)
 
