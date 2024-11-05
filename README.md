@@ -23,6 +23,7 @@
 - [Collaboration Opportunities](#collaboration-opportunities)
 - [GitHub Stats](#github-stats)
 - [Highlighted Projects](#highlighted-projects)
+- [Copywrite](#Copywrite)
 
 
 ## Introduction
@@ -315,3 +316,8 @@ I have extensive experience teaching a wide range of subjects within the field o
 
 
 [Back to Table of Contents](#toc)
+
+## Copyright
+
+![CC-BY-SA 4.0 license (unless stated otherwise)]
+
